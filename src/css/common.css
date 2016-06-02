@@ -1,0 +1,19 @@
+// 自定义类，文本对齐，清除浮动等常用属性封装
+.text-left {
+	text-align: left;
+}
+.text-right {
+	text-align: right;
+}
+.text-center {
+	text-align: center;
+}
+.clear-float {
+	
+}
+
+.button {
+	background-color: #1FB1A9;
+	padding: 8px 10px;
+	border-radius: 5px;
+}
