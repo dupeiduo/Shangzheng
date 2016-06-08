@@ -64,22 +64,13 @@ body {
   #bodyer .home .carousel-control {
     font-size: 80px;
     margin-top: 10%; }
-  #bodyer .general, #bodyer .partners, #bodyer .about-us, #bodyer .join-in {
-    margin: 60px 100px; }
-  #bodyer .partners a {
+  #bodyer .home .partners a {
     float: left;
     padding: 10px;
     text-align: center;
     text-decoration: none; }
-  #bodyer .partners p {
+  #bodyer .home .partners p {
     margin: 10px; }
-  #bodyer .general-content, #bodyer .join-content {
-    color: #666;
-    font-size: 16px;
-    text-indent: 2em;
-    line-height: 1.5;
-    word-break: normal;
-    word-wrap: break-word; }
   #bodyer .join .position-container {
     margin: 0 0 0 30px; }
   #bodyer .join .positon-content {
@@ -97,6 +88,15 @@ body {
     margin: 0 0 100px 0; }
     #bodyer .about .company .zzjg {
       width: 80%; }
+  #bodyer .general, #bodyer .partners, #bodyer .about-us, #bodyer .join-in {
+    margin: 60px 100px; }
+  #bodyer .general-content, #bodyer .join-content {
+    color: #666;
+    font-size: 16px;
+    text-indent: 2em;
+    line-height: 1.5;
+    word-break: normal;
+    word-wrap: break-word; }
 
 footer {
   margin-top: 100px;

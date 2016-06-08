@@ -26,7 +26,8 @@ gulp.task('delfiles', function(){
     'dist/js',
     'dist/css',
     'dist/styles',
-    'dist/lib/index.html'
+    'dist/lib/index.html',
+    'dist/lib/rev-manifest.json'
   ]);
 })
 
